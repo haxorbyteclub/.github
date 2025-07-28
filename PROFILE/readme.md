@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/haxorbyteclub/hxbc-www/refs/heads/main/wwwroot/img/welcome.jpg" alt="HaxorByteClub" />
+<img src="https://raw.githubusercontent.com/haxorbyteclub/.github/refs/heads/main/art/intro.jpg" alt="HaxorByteClub" />
